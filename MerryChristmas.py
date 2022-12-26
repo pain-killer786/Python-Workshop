@@ -1,4 +1,7 @@
-import turtle,random
+import turtle
+import random
+import tkinter
+
 def drawHat():
     pen.color('red')
     pen.fillcolor('red')
